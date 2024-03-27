@@ -28,3 +28,19 @@ ensuring that the total reads (total reads) for each TAM remained consistent.
 Finally, we calculated the ratio of scaled  edited reads to total edited reads for each TAM, assessing their ratios to the overall editing process.
 
 We have hosted the code for the above analysis pipeline on GitHub(https://github.com/Hanhui-Ma-Lab/Analyze_PAM_from_BE_Result)
+
+# How to use:
+## Dependence
+pleas make sure you have the following dependence installed.
+```
+tqdm
+seaborn
+matplotlib
+pandas
+jupyter
+```
+
+## Usage
+1. Analyse the NGS data with [NGS_Tools](https://github.com/Masterchiefm/NGS_Tools) or [CRISPResso2](https://github.com/pinellolab/CRISPResso2/tree/master/CRISPResso2).
+2. If your base editor work, download this project and copy the notebook to the result folder, then run the notebook.
+3. You will see these figure including sequence logo, ratio ranking, edit efficiency...

@@ -1,5 +1,6 @@
 # Analyze_PAM_from_BE_Result
-Code for Engineering XXX XXX Nickase for Robust Base Editing with Broad Targeting Range, NCB, 2024
+Code for **Engineering XXX XXX Nickase for Robust Base Editing with Broad Targeting Range**, NCB, 2024
+
 Analyze PAM sequence from Base Edit results.
 
 Protospacer adjacent motif(PAM) and transposon-associated motif(TAM) are key DNA sequence for RNA-guild gene editor to bind and reconize target DNA.

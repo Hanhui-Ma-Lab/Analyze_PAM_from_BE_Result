@@ -1,5 +1,5 @@
 # Analyze_PAM_from_BE_Result
-Code for **Engineering XXX XXX Nickase for Robust Base Editing with Broad Targeting Range**, NCB, 2024
+Code for **[Engineering miniature IscB nickase for robust base editing with broad targeting range](https://www.nature.com/articles/s41589-024-01670-w)**, NCB, 2024
 
 Analyze PAM sequence from Base Edit results.
 
